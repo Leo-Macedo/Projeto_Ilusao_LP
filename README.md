@@ -13,5 +13,5 @@ Polícia tem um relacionamento simples com Cela onde ela usufuri para prender o 
 <img src = "img/uso.jpg" ><br>
 <h3>Documentação</h3>
 <img src = "img/documentacao.jpg" ><br>
-<h3>Diagrama de atividade ( prender o jogador) </h3>
+<h3>Diagrama de atividade (prender o jogador) </h3>
 <img src = "img/atividade.jpg" >
