@@ -10,9 +10,15 @@ Palavras de Afro-X: “'Saudades Mil' é uma música sobre sentir falta. Bate fo
 A música relata a história de um homem que foi preso, que recebe uma carta e fica com muita saudades de amigos e família. Como a música ilusão, também foi feita para conscientizar sobre como a vida é. <br>
 ## Descrição do jogo
 O jogo passa em uma comunidade onde o homem tem que fugir do policial por ter cometido coisas ilegais. Após ser preso, recebe uma carta com perguntas e tem que responder todas corretamente para ficar livre da prisão.<br>
-
-
-
+# Como Jogar
+<img src = "img/1.jpg"><br>
+# GameObjects usados
+Peguei todos da loja de assets, a prisão eu modelei no Bender 3D e os texto do própio Unity.
+<img src = "img/2.png"><br>
+# Cena 1 - Menu
+<img src = "img/3.jpg"><br>
+<img src = "img/4.png"><br>
+Criei dois métodos, o jogar é para o botão 'play' onde quando eu clicar irá para a cena2. E o sair é para fechar a aplicação. Na função OnClick criei um empty, adicionei o script e arrastei na função, para selecionar o método. Nos botões adicionei uma imagem.
 
 
 
