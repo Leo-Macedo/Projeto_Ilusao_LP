@@ -29,21 +29,14 @@ No policial coloquei um script para ele andar para frente automático, e outro p
 # Cena 3 - Fase 2
 <img src = "img/7.png"><br>
 <img src = "img/8.png"><br>
-Para trocar as perguntas, abrir a carta, chegar no final e no tentar novamente, utilizei os botões com a função OnClick onde eu desativo a câmera que está ativada e ativo a próxima, com o SetActive (booleano). No botão menu, utilizei o metodo VoltarMenu, que vai para a cena 1 ao clica-lo.
+Para trocar as perguntas, abrir a carta, chegar no final e no tentar novamente, utilizei os botões com a função OnClick onde eu desativo a câmera que está ativada e ativo a próxima, com o SetActive (booleano). No botão menu, utilizei o metodo VoltarMenu, que vai para a cena 1 ao clica-lo.<br>
+# Zerando o Jogo
+https://github.com/Leo-Macedo/Projeto_Ilusao_LP/assets/127630556/ae18509b-4b6e-47c2-aa80-152577c68145
 
+# Perdendo o Jogo
+https://github.com/Leo-Macedo/Projeto_Ilusao_LP/assets/127630556/4df3f614-d0a9-492d-9068-836884591624
 
-
-
-
-
-
-
-
-
-
-
-
-
+# Diagramas
 ## Diagrama de Classes
 <img src = "img/classe.jpg" > <br>
 <h3> Descrição </h3>
@@ -57,5 +50,4 @@ Polícia tem um relacionamento simples com Cela onde ela usufuri para prender o 
 <img src = "img/uso.jpg" ><br>
 <h3>Documentação</h3>
 <img src = "img/documentacao.jpg" ><br>
-<h3>Diagrama de atividade (prender o jogador) </h3>
-<img src = "img/atividade.jpg" >
+
