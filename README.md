@@ -22,13 +22,14 @@ Criei dois métodos, o jogar é para o botão 'play' onde quando eu clicar irá 
 # Cena 2 - Fase 1
 ## Personagem
 <img src = "img/5.png"><br>
-No personagem adicionei scripts simples para mocimentação, rotação de câmera e 'congelar' ele para não tombar.<br>
+No personagem adicionei scripts simples para movimentação, rotação de câmera e 'congelar' ele para não tombar.<br>
 ## Policial
 <img src = "img/6.png"><br>
 No policial coloquei um script para ele andar para frente automático, e outro para quando colidir com o personagem ir para a cena 3, ativei a opção is trigger para ele atravessar os objetos e desativei a gravidade pois se não ele atravessaria o chão.<br>
 # Cena 3 - Fase 2
 <img src = "img/7.png"><br>
-
+<img src = "img/8.png"><br>
+Para trocar as perguntas, abrir a carta, chegar no final e no tentar novamente, utilizei os botões com a função OnClick onde eu desativo a câmera que está ativada e ativo a próxima, com o SetActive (booleano). No botão menu, utilizei o metodo VoltarMenu, que vai para a cena 1 ao clica-lo.
 
 
 
