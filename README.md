@@ -27,7 +27,7 @@ No personagem adicionei scripts simples para mocimentação, rotação de câmer
 <img src = "img/6.png"><br>
 No policial coloquei um script para ele andar para frente automático, e outro para quando colidir com o personagem ir para a cena 3, ativei a opção is trigger para ele atravessar os objetos e desativei a gravidade pois se não ele atravessaria o chão.<br>
 # Cena 3 - Fase 2
-
+<img src = "img/7.png"><br>
 
 
 
