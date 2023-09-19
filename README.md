@@ -18,9 +18,15 @@ Peguei todos da loja de assets, a prisão eu modelei no Bender 3D e os texto do 
 # Cena 1 - Menu
 <img src = "img/3.jpg"><br>
 <img src = "img/4.png"><br>
-Criei dois métodos, o jogar é para o botão 'play' onde quando eu clicar irá para a cena2. E o sair é para fechar a aplicação. Na função OnClick criei um empty, adicionei o script e arrastei na função, para selecionar o método. Nos botões adicionei uma imagem.
-
-
+Criei dois métodos, o jogar é para o botão 'play' onde quando eu clicar irá para a cena2. E o sair é para fechar a aplicação. Na função OnClick criei um empty, adicionei o script e arrastei na função, para selecionar o método. Nos botões adicionei uma imagem. Coloquei um panel e adicionei uma imagem para ficar de fundo.<br>
+# Cena 2 - Fase 1
+## Personagem
+<img src = "img/5.png"><br>
+No personagem adicionei scripts simples para mocimentação, rotação de câmera e 'congelar' ele para não tombar.<br>
+## Policial
+<img src = "img/6.png"><br>
+No policial coloquei um script para ele andar para frente automático, e outro para quando colidir com o personagem ir para a cena 3, ativei a opção is trigger para ele atravessar os objetos e desativei a gravidade pois se não ele atravessaria o chão.<br>
+# Cena 3 - Fase 2
 
 
 
