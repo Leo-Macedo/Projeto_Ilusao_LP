@@ -35,7 +35,9 @@ https://github.com/Leo-Macedo/Projeto_Ilusao_LP/assets/127630556/ae18509b-4b6e-4
 
 # Perdendo o Jogo
 https://github.com/Leo-Macedo/Projeto_Ilusao_LP/assets/127630556/4df3f614-d0a9-492d-9068-836884591624
+
 <br>
+
 # Diagramas
 ## Diagrama de Classes
 <img src = "img/classe.jpg" > <br>
